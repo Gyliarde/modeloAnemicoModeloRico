@@ -8,10 +8,10 @@ public class ClienteModeloAnemico {
         Cao pacoca = new Cao("Ouro","Golden");
 
         ServiceCao serviceCao = new ServiceCao();
-        serviceCao.servicoAndar(pacoca);
-        serviceCao.servicoLatir(pacoca);
-        serviceCao.servicoMorderSandalia(pacoca);
-        serviceCao.servicoMorderSandalia(pacoca);
-        serviceCao.servicoMorderSandalia(pacoca);
+        serviceCao.andar(pacoca);
+        serviceCao.latir(pacoca);
+        serviceCao.morderSandalia(pacoca);
+        serviceCao.morderSandalia(pacoca);
+        serviceCao.morderSandalia(pacoca);
     }
 }

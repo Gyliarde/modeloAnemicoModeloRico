@@ -2,15 +2,15 @@ package modeloAnemico;
 
 public class ServiceCao {
 
-    public void servicoLatir(Cao cao) {
+    public void latir(Cao cao) {
         System.out.println("AuAu");
     }
 
-    public void servicoAndar(Cao cao)  {
+    public void andar(Cao cao)  {
         System.out.println("AuAu");
     }
 
-    public void servicoMorderSandalia(Cao cao) {
+    public void morderSandalia(Cao cao) {
         System.out.println("Cao mordendo ...");
     }
 }
